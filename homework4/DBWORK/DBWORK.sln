@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBWORK", "DBWORK.csproj", "{FAF57962-26CD-4B47-8A10-B757D0AAAB86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF57962-26CD-4B47-8A10-B757D0AAAB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF57962-26CD-4B47-8A10-B757D0AAAB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF57962-26CD-4B47-8A10-B757D0AAAB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF57962-26CD-4B47-8A10-B757D0AAAB86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E5E76B-F45D-4694-85F1-20A7FD173C67}
+	EndGlobalSection
+EndGlobal
